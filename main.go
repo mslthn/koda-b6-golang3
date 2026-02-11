@@ -10,16 +10,19 @@ import (
 // kembalikan slice hasil pencarian, jika tidak ada, kembalikan slice kosong
 // contoh searchPerson(users, "John")
 // buat interaktif
+//buat readme, jelaskan package apa aja, kegunaannya apa aja
 
 func main() {
 	nameList := []string{
-		"Arya", "Anandita", 
-		"Bobo", "Budi",
-		"Caca", "Chichi",
-		"Danu", "Doni",
-		"Eli", "Edo",
+		"Arya", "Anandita",
+		"Bobo", "Emil",
+		"Andi", "Doni",
+		"Edo", "Bandi",
+		"Caca", "Budi", 
+		"Danu", "Cucuk", "Edi",
+		"Eli", "Chichi",
 	}
-	
+
 	var name string
 
 	fmt.Print("Search: ")
