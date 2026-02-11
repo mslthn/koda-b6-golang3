@@ -17,7 +17,7 @@ func main() {
 		"Arya", "Anandita",
 		"Bobo", "Emil",
 		"Andi", "Doni",
-		"Edo", "Bandi",
+		"Edo", "Bandi", "Cici",
 		"Caca", "Budi", 
 		"Danu", "Cucuk", "Edi",
 		"Eli", "Chichi",
